@@ -1,2 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://nanalab.kr/eng-reynolds/</loc><lastmod>2026-10-25</lastmod></url></urlset>
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://nanalab.kr/eng-reynolds/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nanalab.kr/eng-reynolds/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nanalab.kr/eng-reynolds/en/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://nanalab.kr/eng-reynolds/es/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nanalab.kr/eng-reynolds/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nanalab.kr/eng-reynolds/ja/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://nanalab.kr/eng-reynolds/de/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nanalab.kr/eng-reynolds/" />
+  </url>
+  <url>
+    <loc>https://nanalab.kr/eng-reynolds/en/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nanalab.kr/eng-reynolds/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nanalab.kr/eng-reynolds/en/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://nanalab.kr/eng-reynolds/es/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nanalab.kr/eng-reynolds/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nanalab.kr/eng-reynolds/ja/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://nanalab.kr/eng-reynolds/de/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nanalab.kr/eng-reynolds/" />
+  </url>
+  <url>
+    <loc>https://nanalab.kr/eng-reynolds/es/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nanalab.kr/eng-reynolds/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nanalab.kr/eng-reynolds/en/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://nanalab.kr/eng-reynolds/es/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nanalab.kr/eng-reynolds/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nanalab.kr/eng-reynolds/ja/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://nanalab.kr/eng-reynolds/de/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nanalab.kr/eng-reynolds/" />
+  </url>
+  <url>
+    <loc>https://nanalab.kr/eng-reynolds/zh/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nanalab.kr/eng-reynolds/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nanalab.kr/eng-reynolds/en/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://nanalab.kr/eng-reynolds/es/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nanalab.kr/eng-reynolds/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nanalab.kr/eng-reynolds/ja/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://nanalab.kr/eng-reynolds/de/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nanalab.kr/eng-reynolds/" />
+  </url>
+  <url>
+    <loc>https://nanalab.kr/eng-reynolds/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nanalab.kr/eng-reynolds/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nanalab.kr/eng-reynolds/en/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://nanalab.kr/eng-reynolds/es/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nanalab.kr/eng-reynolds/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nanalab.kr/eng-reynolds/ja/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://nanalab.kr/eng-reynolds/de/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nanalab.kr/eng-reynolds/" />
+  </url>
+  <url>
+    <loc>https://nanalab.kr/eng-reynolds/de/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nanalab.kr/eng-reynolds/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nanalab.kr/eng-reynolds/en/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://nanalab.kr/eng-reynolds/es/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nanalab.kr/eng-reynolds/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nanalab.kr/eng-reynolds/ja/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://nanalab.kr/eng-reynolds/de/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nanalab.kr/eng-reynolds/" />
+  </url>
+</urlset>
