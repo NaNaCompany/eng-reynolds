@@ -1,0 +1,61 @@
+export const tool = {
+  "id": "E001",
+  "title": "레이놀즈수 계산기",
+  "inputs_text": "밀도 ρ [kg/m³], 평균속도 V [m/s], 특성길이 L [m], 점성계수 μ [Pa·s]",
+  "formula": "Re = ρ V L / μ",
+  "output_text": "레이놀즈수 Re [무차원]",
+  "assumptions": "ρ,L,μ>0, V≥0. 원관 내부유동은 L=내경을 사용한다. 평판·외부유동에 관 유동 임계값을 그대로 적용하지 않는다. 출력은 Re 하나이며 층류 확정 판정은 하지 않는다.",
+  "purpose": "레이놀즈수 계산 / 관 유동 실험·모형 유사성 점검",
+  "sources": [
+    {
+      "label": "NASA Glenn · Reynolds Number",
+      "url": "https://www.grc.nasa.gov/www/k-12/airplane/reynolds.html"
+    }
+  ],
+  "slug": "eng-reynolds",
+  "category": "유체",
+  "result_label": "레이놀즈수 Re",
+  "result_dimension": "ratio",
+  "fields": [
+    {
+      "key": "rho",
+      "label": "밀도 ρ",
+      "dimension": "density",
+      "example": 1000,
+      "constraint": "positive",
+      "display_unit": "kgm3",
+      "display_value": "1000"
+    },
+    {
+      "key": "v",
+      "label": "평균속도 V",
+      "dimension": "speed",
+      "example": 2,
+      "constraint": "nonnegative",
+      "display_unit": "ms",
+      "display_value": "2"
+    },
+    {
+      "key": "l",
+      "label": "특성길이 L",
+      "dimension": "length",
+      "example": 0.05,
+      "constraint": "positive",
+      "display_unit": "mm",
+      "display_value": "50"
+    },
+    {
+      "key": "mu",
+      "label": "점성계수 μ",
+      "dimension": "viscosity",
+      "example": 0.001,
+      "constraint": "positive",
+      "display_unit": "mPas",
+      "display_value": "1"
+    }
+  ],
+  "site": "https://nanalab.kr/eng-reynolds/",
+  "repository": "https://github.com/NaNaCompany/eng-reynolds",
+  "condition": "",
+  "output_unit": "1"
+};
